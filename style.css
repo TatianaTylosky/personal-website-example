@@ -70,6 +70,10 @@ a {
 
 }
 
+a:hover {
+    text-decoration: underline;
+}
+
 .introduction-section > p,
 .location-section > p,
 .content-footer > p {
